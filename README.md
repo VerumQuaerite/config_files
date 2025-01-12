@@ -10,5 +10,6 @@
 **Just clone the repo, and then copy the config files into the correspond app config directory.**
 
 # Disclaimer !
-** I use gh0stzk's autobspwm/rice as a starting point.** 
+** I use gh0stzk's autobspwm/rice as a starting point.**
+**The rice i use and configure is the cristina one.**
 **Check out their repo here: https://github.com/gh0stzk/dotfiles**
