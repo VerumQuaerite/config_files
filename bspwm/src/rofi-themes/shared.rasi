@@ -1,0 +1,14 @@
+// Rofi colors for Cristina
+
+* {
+    font: "JetBrainsMono NF Bold 9";
+    background: #1e2122;
+    bg-alt: #373B41;
+    background-alt: #1e2122E0;
+    foreground: #C5C8C2;
+    selected: #a4b595;
+    active: #728da8;
+    urgent: #cc6666;
+
+    img-background: url("~/.config/bspwm/rices/cristina/rofi.webp", width);
+}
