@@ -9,7 +9,7 @@
 # Installation:
 
 **Just clone the repo, and then copy the config files into the correspond app config directory.**
-**INSTALL SCRIPT COMING SOON!
+**INSTALL SCRIPT COMING SOON!**
 
 # Disclaimer !
 **I use gh0stzk's autobspwm/rice as a starting point.**
