@@ -4,6 +4,7 @@
 - Clean Kitty tab bar.
 ![Alt text](./images/tab-bar-showcase.gif)
 - Clean pacman themed starship prompt.
+![Alt text](./images/prompt-showcase.gif)
 - Clean bspwm and polybar rice.
 - Picom animations.
 
