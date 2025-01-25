@@ -2,6 +2,7 @@
 
 # Features:
 - Clean Kitty tab bar.
+![Alt text](./.git/tab-bar-showcase.gif)
 - Clean pacman themed starship prompt.
 - Clean bspwm and polybar rice.
 - Picom animations.
