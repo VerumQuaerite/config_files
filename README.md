@@ -7,6 +7,7 @@
 ![Alt text](./images/prompt-showcase.gif)
 - Clean bspwm and polybar rice.
 - Picom animations.
+![Alt text](./images/picom-preview.gif)
 
 # Installation:
 
